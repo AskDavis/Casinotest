@@ -4,9 +4,6 @@
 
 #ifndef __STDC_LIMIT_MACROS
 #define __STDC_LIMIT_MACROS
-#endif
-#ifndef STORAGE_LEVELDB_HELPERS_MEMENV_MEMENV_H_
-#define STORAGE_LEVELDB_HELPERS_MEMENV_MEMENV_H_
 
 namespace leveldb {
 
