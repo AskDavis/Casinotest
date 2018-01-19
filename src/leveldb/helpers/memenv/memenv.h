@@ -2,6 +2,9 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file. See the AUTHORS file for names of contributors.
 
+#ifndef __STDC_LIMIT_MACROS
+#define __STDC_LIMIT_MACROS
+#endif
 #ifndef STORAGE_LEVELDB_HELPERS_MEMENV_MEMENV_H_
 #define STORAGE_LEVELDB_HELPERS_MEMENV_MEMENV_H_
 
